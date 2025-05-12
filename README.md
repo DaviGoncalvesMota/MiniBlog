@@ -26,7 +26,7 @@ O **MiniBlog** é uma aplicação web inspirada no Instagram, onde usuários pod
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seunome/MiniBlog.git
+git clone https://github.com/DaviGoncalvesMota/MiniBlog.git
 
 # Acesse a pasta do projeto
 cd MiniBlog
